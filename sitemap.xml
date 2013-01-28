@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+    <url>
+        <loc>http://barkbay.github.com</loc>
+        <!-- <lastmod>2006-10-15</lastmod> -->
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://barkbay.github.com/index_fr.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>http://barkbay.github.com/index_en.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+</urlset>
