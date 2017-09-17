@@ -38,20 +38,19 @@ __Master in Distributed applications and artificial intelligence__
 ## Work History
 *CNAMTS is the French National Health Insurance, it guarantees healthcare access for nearly 55 million people in France*
 
-**2015 - Product Owner and Architect of a Private PaaS cloud platform @ CNAMTS**
+`2015`
+__Product Owner and Architect of a Private PaaS cloud platform @ CNAMTS__
 
 Lead engineer for cluster management using Openshift, Kubernetes, Docker and Ceph as the storage platform on baremetal and virtual infrastructures.
 
 * Automate most of the cluster maintenance tasks with Ansible
-
 * Write some Go programs to help to maintain the platform (e.g. [ZAC](https://github.com/barkbay/zac) )
-
 * Leverage agile and CI/CD methodologies in order to continuously deploy PHP, Java and NodeJS apps in production
-
 * Manage a "Kibana and ElasticSearch As A Service" platform
 
 
-**2014 - 2015 Hadoop and BigData Engineer @ CNAMTS**
+`2014 - 2015`
+__Hadoop and BigData Engineer @ CNAMTS__
 
 Design and deploy Hadoop clusters :
 * Hardware and operating system choice (diskless CentOS customized distribution)
@@ -61,7 +60,8 @@ Design and deploy Hadoop clusters :
 * Ansible for third part configuration
 * Metrics collection with HBase and OpenTSDB + Grafana to visualize data with nice dashboards
 
-**2009 - 2014 Java Software Engineer @ CNAMTS**
+`2009 - 2014`
+__Java Software Engineer @ CNAMTS__
 
 Build a highly available configuration directory with Apache Zookeeper and Apache Curator
 
