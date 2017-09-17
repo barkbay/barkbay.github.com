@@ -73,6 +73,11 @@ __Java and JEE Software Engineer @ CNAMTS__
 - Create simple but highly reliable file transfer tool with Netty, Google Protocol Buffers and Google Guice. This tool is today deployed on hundreds of machines in order to transfer files of any size.
 - Lead Java engineer on a JEE (Oracle Weblogic) project
 
+`2004`
+__Sopra Steria__
+
+Multiples positions as a developer (mostly in C and Java) in the domains of Banking & Finance, Telecom, and Healthcare.
+
 <div id="dfooter">
 <a href="cv_barkbay.pdf">Download as a PDF</a>
 </div>
