@@ -192,6 +192,9 @@ strong {
 	visibility: hidden;
 }
 
-
+#dfooter {
+	display: none;
+	visibility: hidden;
+ }
 
 

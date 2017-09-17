@@ -186,6 +186,13 @@ strong {
 	display: none;
 }
 
+#dfooter {
+	width:100%;
+	height:60px;   /* Height of the footer */
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+	text-align: center;
+ }
 
 
 /*
