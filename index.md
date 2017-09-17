@@ -76,7 +76,7 @@ __Java and JEE Software Engineer @ CNAMTS__
 `2004`
 __Sopra Steria__
 
-Multiples positions as a developer (mostly in C and Java) in the domains of Banking & Finance, Telecom, and Healthcare.
+Multiple positions as a developer (mostly in C and Java) in the domains of Banking & Finance, Telecom, and Healthcare.
 
 <div id="dfooter">
 <a href="cv_barkbay.pdf">Download as a PDF</a>
