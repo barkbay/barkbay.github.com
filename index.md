@@ -27,7 +27,9 @@ Building a private PaaS with Docker, Kubernetes and Openshift
 
 ### Research interests
 
-Distributed systems theory (CAP, FLP), IT Security, Computing languages (C, Java, Go)
+* Distributed systems theory (CAP, FLP)
+* Computing languages (C, Java, Go)
+* IT Security
 
 
 ## Education
@@ -49,7 +51,7 @@ Lead engineer for cluster management using Openshift, Kubernetes, Docker and Cep
 * Manage a "Kibana and ElasticSearch As A Service" platform
 
 
-`2014 - 2015`
+`2014`
 __Hadoop and BigData Engineer @ CNAMTS__
 
 Design and deploy Hadoop clusters :
@@ -60,7 +62,7 @@ Design and deploy Hadoop clusters :
 * Ansible for third part configuration
 * Metrics collection with HBase and OpenTSDB + Grafana to visualize data with nice dashboards
 
-`2009 - 2014`
+`2009`
 __Java Software Engineer @ CNAMTS__
 
 Build a highly available configuration directory with Apache Zookeeper and Apache Curator
