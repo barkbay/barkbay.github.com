@@ -3,11 +3,12 @@ layout: cv
 title: Michael Morello's CV
 ---
 # Michael Morello
-Developer, distributed system engineer, France
+Developer and distributed system engineer, France
 
 <div id="webaddress">
 <a href="michael.morello@gmail.com">michael.morello@gmail.com</a>
-| <a href="https://www.linkedin.com/in/michaelmorello/">My LinkedIn page</a>
+| <a href="https://www.linkedin.com/in/michaelmorello/">LinkedIn</a>
+| <a href="https://twitter.com/barkbay">Twitter</a>
 </div>
 
 
@@ -17,20 +18,19 @@ Building a private PaaS with Docker, Kubernetes and Openshift
 
 ### Specialized in
 
-* Building and maintaining distributed systems :
-  * Openshift and Kubernetes clusters
-  * Hadoop and big data related softwares (Kafka, Spark...)
-* Automating things with Ansible (and a little bit of Bash)
-* Always keep a close eye on security issues
-* 15+ years of Java
-* Golang newbie *(but as someone who manage distributed systems and did a lot of programming in the past I'm eager to gain new experiences with this language)*
+- Building and maintaining distributed systems :
+  - Openshift and Kubernetes clusters
+  - Hadoop and big data related softwares (Kafka, Spark...)
+- Automating things with Ansible (and a little bit of Bash)
+- Always keep a close eye on security issues
+- 15+ years of Java
+- Golang newbie *(but as someone who manage distributed systems and did a lot of programming in the past I'm eager to gain new experiences with this language)*
 
 ### Research interests
 
-* Distributed systems theory (CAP, FLP)
-* Computing languages (C, Java, Go)
-* IT Security
-
+- Distributed systems theory (CAP, FLP)
+- Computing languages (C, Java, Go)
+- IT Security
 
 ## Education
 
