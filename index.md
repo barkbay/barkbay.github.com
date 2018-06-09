@@ -34,6 +34,11 @@ Building a private PaaS with Docker, Kubernetes and Openshift
 - IT Security
 - Machine learning
 
+## Speaker
+
+- [My Applications in production with Kubernetes](https://www.youtube.com/watch?v=cqqLeS9mUyU) [French]
+- [Kubernetes Paris Meetup](https://www.youtube.com/watch?v=U0uVeJSee8k) [French]
+
 ## Education
 
 `2003`
